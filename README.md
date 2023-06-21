@@ -35,7 +35,7 @@
 - For the backend, please refer to the server.js file. It handles REST API requests to retrieve card distribution results based on the number of players.
 - For the frontend, please refer to the App.js file. It handles user input, consumes the REST API from the backend, and renders the card distribution results accordingly.
 
-# SQL IMPROVEMENT TEST
+# B) SQL IMPROVEMENT TEST
 
 - The original SQL query can be found in the original-query.sql file.
 - The improved version of the SQL query can be found in the improved-query.sql file.
